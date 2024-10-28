@@ -1,0 +1,7 @@
+Spaghetti, 3.4, Groceries
+Продукт Potato, 50.5, Vegetables уже есть в магазине
+Продукт Spaghetti, 3.4, Groceries уже есть в магазине
+Продукт Potato, 5.5, Vegetables уже есть в магазине
+Potato, 50.5, Vegetables
+Spaghetti, 3.4, Groceries
+Potato, 5.5, Vegetables
